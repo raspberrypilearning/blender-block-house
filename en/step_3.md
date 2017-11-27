@@ -1,3 +1,3 @@
-## Step title
+## Vertices, edges and faces
 
 + Step content...
