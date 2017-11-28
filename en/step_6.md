@@ -1,10 +1,10 @@
 ## Create the other half of the roof
 
-+ Select edges from the lower menu.
++ Select **edges** from the lower menu.
 
 ![Edge tool](images/blender-edge-tool.png)
 
-+ Right click to select the upper right edge.
++ Right-click to select the upper right edge.
 
 ![Select the edge](images/blender-select-right-edge-2.png)
 
@@ -14,4 +14,4 @@
 
 ![House side](images/blender-house-side.png)
 
-Your house might look a bit unbalanced, but it's up to you to experiment and make it look better. Using these techniques it is possible to start making some very complicated models.
+Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using these techniques, it is possible to start making some very complicated models.
