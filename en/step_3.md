@@ -1,12 +1,12 @@
 ## Vertices, edges and faces
 
-+ Open Blender and close the splash screen. You will see a cube is automatically added for you.
++ Open Blender and close the splash screen. You will see that a cube has been automatically added for you.
 
 If you rotate around the cube using the middle mouse button, it doesn't look particularly house-like at the moment. You might be tempted to go to the Create tab on the Toolbox and add a cone on top of the cube. For example:
 
 ![Block and cone](images/blender-block-and-cone.png)
 
-But that's not a very good solution at all. It is far easier to edit the cube to make it look like a house.
+But that's not a very good solution at all. It is far easier to edit the cube itself to make it look like a house.
 
 + Select the cube, then go to edit mode by selecting **Edit mode** from the lower menu.
 
@@ -24,7 +24,7 @@ There are three options: you can select to edit vertices, edges or faces from th
 
 ![Edit options](images/blender-vertex-tool.png)
 
-+ Select a vertex (corner) of the cube by right clicking on the vertex.
++ Select a vertex (corner) of the cube by right clicking on it.
 
 ![Vertices](images/blender-select-vertex.png)
 
