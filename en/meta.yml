@@ -16,3 +16,5 @@ steps:
   - title: Vertices, edges and faces
   - title: Create half a roof
   - title: Extrude
+  - title: Create the other half of the roof
+  - title: "Challenge: colour in your house"
