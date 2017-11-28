@@ -6,7 +6,8 @@ Learn how to edit objects and extrude in Blender by creating a simple house from
 
 Here is how your finished piece will look:
 
-[Sketchfab]
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+</div>
 
 ### What you will learn
 
