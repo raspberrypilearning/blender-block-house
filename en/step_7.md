@@ -1,6 +1,6 @@
 ## Challenge: colour in your house
 
-+ Can you add colour to your house?
+Can you add colour to your house?
 
 ![Coloured house](images/blender-house-colour-render.png)
 
