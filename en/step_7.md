@@ -14,6 +14,6 @@ You can select a face and add a material to the face to colour it in:
 + Go to Edit mode and select the face you want to colour.
 + Select the material, then press **Assign** to assign the material to the face.
 
-+ Try giving your house multiple colours, for example you could add a grey roof:
++ Try giving your house multiple colours. For example, you could add a grey roof:
 
 ![Coloured house 2](images/blender-house-2.png)
