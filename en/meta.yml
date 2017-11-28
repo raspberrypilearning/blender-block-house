@@ -1,6 +1,6 @@
 title: Block house
 hero_image: images/banner.png
-description: Learn how to edit objects and extrude in Blender by creating a simple house from a single block.
+description: Learn how to edit objects and extrude in Blender by creating a house from a single block
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
