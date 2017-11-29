@@ -14,4 +14,4 @@
 
 ![House side](images/blender-house-side.png)
 
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using these techniques, it is possible to start making some very complicated models.
+Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
