@@ -16,4 +16,4 @@ To create the roof, start by selecting an edge.
 
 Now you have half a house with one edge going up to a point. You need to create the other half of the roof, but you cannot do that with a cube, because there are not enough parts to this cube to create the right shape.
 
-In the next step you will learn how to use a tool called **extrude**.
+In the next step you will learn how to use a tool called **extrude**, which will allow you to complete your house.
