@@ -10,10 +10,10 @@
 
 + Go to the Toolbox bar on the left, and make sure the **Tools** tab is selected.
 
-Under **Add** you'll see a whole selection of **extrude** tools.
+In the **Add** section you'll see a whole selection of **extrude** tools.
 
 ![Extrude tools](images/blender-extrude-tool.png)
 
-+ Select **Extrude Region**. You can now move the mouse from left to right to add another side on the house. When you are happy, left-click to finish editing.
++ Select **Extrude Region**. You can now move the mouse from left to right to add another side on the house. When you are happy with what you've added, left-click to finish editing.
 
 ![Extrude tools](images/blender-drag-right-face.png)
