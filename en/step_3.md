@@ -2,13 +2,13 @@
 
 + Open Blender and close the splash screen. You will see that a cube has been automatically added for you.
 
-If you rotate around the cube using the middle mouse button, it doesn't look particularly house-like at the moment. You might be tempted to go to the Create tab on the Toolbox and add a cone on top of the cube. For example:
+If you rotate the cube using the middle mouse button, you'll see that it doesn't look particularly house-like at the moment. You might be tempted to go to the Create tab in the Toolbox and add a cone on top of the cube. For example:
 
 ![Block and cone](images/blender-block-and-cone.png)
 
 But that's not a very good solution at all. It is far easier to edit the cube itself to make it look like a house.
 
-+ Select the cube, then go to the lower menu and select **Edit mode**.
++ Select the cube, then go to the lower menu and select **Edit Mode**.
 
 ![Edit mode](images/edit-mode.png)
 
@@ -20,7 +20,7 @@ There are three options: you can select to edit vertices, edges, or faces from t
 
 ### Vertices
 
-+ Select **vertices** on the menu — this means you can select the corners of the cube.
++ Choose **vertices** from the menu — this means you can select the corners of the cube.
 
 ![Edit options](images/blender-vertex-tool.png)
 
@@ -32,11 +32,11 @@ There are three options: you can select to edit vertices, edges, or faces from t
 
 ![Drag vertex](images/blender-drag-vertex.png)
 
-If you don't like the new shape you have created, you can press <kbd>CTRL + Z<kbd> to undo the changes.
+If you don't like the new shape you have created, you can press <kbd>CTRL + Z</kbd> to undo the changes.
 
 ### Edges
 
-+ Select **edges** on the menu — this means you can select the edges of the cube.
++ Choose **edges** from the menu — this means you can select the edges of the cube.
 
 ![Edges option](images/blender-edge-tool.png)
 
@@ -50,7 +50,7 @@ If you don't like the new shape you have created, you can press <kbd>CTRL + Z<kb
 
 ### Faces
 
-+ Select **faces** on the menu — this means you can select the sides of the cube.
++ Choose **faces** from the menu — this means you can select the sides of the cube.
 
 ![Select faces option](images/blender-face-tool.png)
 
