@@ -1,0 +1,20 @@
+title: Block house
+hero_image: images/banner.png
+description: Learn how to edit objects and extrude in Blender by creating a house from a single block
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 # possible values: 1, 2 or 3
+listed: false
+ingredient: false
+copyedit: true
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: ""
+site_areas:
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Vertices, edges and faces
+  - title: Create half a roof
+  - title: Extrude
+  - title: Create the other half of the roof
+  - title: "Challenge: colour in your house"
