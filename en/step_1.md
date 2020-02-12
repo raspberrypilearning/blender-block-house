@@ -9,7 +9,7 @@ Here is how your finished piece will look:
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
 
-#--- collapse ---
+--- collapse ---
 ---
 title: "What you will learn"
 ---
