@@ -14,7 +14,7 @@ But that's not a very good solution at all. It is far easier to edit the cube it
 
 Now you are in a mode which allows you to edit every part of the cube to reshape it.
 
-There are three options: you can select to edit vertices, edges, or faces from the bottom menu.
+There are three options: you can select to edit vertices, edges, or faces from the top menu.
 
 ![Edit modes](images/edit-modes.png)
 
@@ -24,7 +24,7 @@ There are three options: you can select to edit vertices, edges, or faces from t
 
 ![Edit options](images/blender-vertex-tool.png)
 
-+ Select a vertex (corner) of the cube by Clicking on it.
++ Select a vertex (corner) of the cube by clicking on it.
 
 ![Vertices](images/blender-select-vertex.png)
 
@@ -54,7 +54,7 @@ If you don't like the new shape you have created, you can press <kbd>CTRL + Z</k
 
 ![Select faces option](images/blender-face-tool.png)
 
-+ Select a face by Clicking on it.
++ Select a face by clicking on it.
 
 ![Select a face](images/blender-select-face.png)
 
