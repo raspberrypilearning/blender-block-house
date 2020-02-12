@@ -1,17 +1,18 @@
-## Create the other half of the roof
+## Challenge: colour in your house
 
-+ Select **edges** from the lower menu.
+Can you add colour to your house?
 
-![Edge tool](images/blender-edge-tool.png)
+![Coloured house](images/blender-house-colour-render.png)
 
-+ Right-click to select the upper right edge.
+You can select a face and add a material to the face to colour it in:
 
-![Select the edge](images/blender-select-right-edge-2.png)
++ Go to the Material Properties tab on the right and click the **+**, then create a **New** material.
++ Select a colour for your material under **Base Color**.
++ Go to Edit mode and select the face you want to colour.
++ Select the material, then press **Assign** to assign the material to the face.
 
-+ Drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
+![New material](images/new-material.png)
 
-![House](images/blender-house.png)
++ Try giving your house multiple colours. For example, you could add a grey roof:
 
-![House side](images/blender-house-side.png)
-
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
+![Coloured house 2](images/blender-house-2.png)
