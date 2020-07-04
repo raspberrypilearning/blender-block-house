@@ -2,7 +2,7 @@
 
 + Select the **face tool** from the menu at the top.
 
-![Face tool](images/blender-face-tool.png)
+![Herramienta de la cara](images/blender-face-tool.png)
 
 + Click to select the right outer face of the cube.
 
