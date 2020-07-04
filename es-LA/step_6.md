@@ -2,7 +2,7 @@
 
 Can you add colour to your house?
 
-![Coloured house](images/blender-house-colour-render.png)
+![Casa pintada](images/blender-house-colour-render.png)
 
 You can select a face and add a material to the face to colour it in:
 
@@ -15,4 +15,4 @@ You can select a face and add a material to the face to colour it in:
 
 + Try giving your house multiple colours. For example, you could add a grey roof:
 
-![Coloured house 2](images/blender-house-2.png)
+![Casa pintada 2](images/blender-house-2.png)
