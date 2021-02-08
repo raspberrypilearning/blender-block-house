@@ -1,30 +1,30 @@
 ---
-title: ब्लॉक हाउस
+title: Block house
 hero_image: images/banner.png
-description: किसी एक ब्लॉक से एक घर बनाकर वस्तुओं को संपादित करने और Blender में निकालने का तरीका सीखें।
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: केवल एक block से घर बनाकर वस्तुओं को संपादित करने और Blender में निकालने का तरीका सीखें।
+theme: फ़िरोज़ी रंग #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: art
+interests: कला
 technologies: blender
-site_areas: projects
+site_areas: परियोजनाए
 hardware: ''
-software: blender
+software: blender (ब्लेंडर)
 version: 4
 last_tested: 2020-02-01
 steps:
   - 
-    title: भूमिका
+    title: परिचय
   - 
-    title: Vertices, edges and faces
+    title: सिरे, किनारे और चेहरे
   - 
-    title: Create half a roof
+    title: आधी छत बनाएँ.
   - 
-    title: Extrude
+    title: बाहर निकाल लीजिये
   - 
-    title: Create the other half of the roof
+    title: छत का दूसरा आधा हिस्सा बनाएँ
   - 
-    title: "Challenge: colour in your house"
+    title: "चुनौती: अपने घर को रंग दें"
