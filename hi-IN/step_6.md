@@ -1,18 +1,18 @@
-## Challenge: colour in your house
+## चुनौती: अपने घर में रंग भरें
 
-Can you add colour to your house?
+क्या आप अपने घर में रंग भर सकते हैं?
 
-![Coloured house](images/blender-house-colour-render.png)
+![रंगीन घर](images/blender-house-colour-render.png)
 
-You can select a face and add a material to the face to colour it in:
+आप किसी सतह का चयन कर सकते हैं और रंग भरने के लिए इसमें कोई सामग्री जोड़ सकते हैं:
 
-+ Go to the Material Properties tab on the right and click the **+**, then create a **New** material.
-+ Select a colour for your material under **Base Color**.
-+ Go to Edit mode and select the face you want to colour.
-+ Select the material, then press **Assign** to assign the material to the face.
++ दाईं ओर स्थित Material properties टैब पर जाएं और **+**क्लिक करें, फिर **New** सामग्री बनाएं।
++ **Base color** तहत अपनी सामग्री के लिए एक रंग का चयन करें।
++ संपादन मोड में जाएँ और उस आकृति का चयन करें जिसे आप रंग करना चाहते हैं।
++ सामग्री का चयन करें, फिर सतह पर सामग्री निर्धारित करने के लिए **Assign** दबाएँ।
 
-![New material](images/new-material.png)
+![नई सामग्री](images/new-material.png)
 
-+ Try giving your house multiple colours. For example, you could add a grey roof:
++ अपने घर को कई रंग देने का प्रयास करें। उदाहरण के लिए, आप एक धूसर रंग की छत जोड़ सकते हैं:
 
-![Coloured house 2](images/blender-house-2.png)
+![रंगीन घर 2](images/blender-house-2.png)
