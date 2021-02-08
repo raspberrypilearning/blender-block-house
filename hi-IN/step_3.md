@@ -1,19 +1,19 @@
-## Create half a roof
+## आधी छत बनाएं
 
-To create the roof, start by selecting an edge.
+छत बनाने के लिए, एक किनारे का चयन करके शुरू करें।
 
-+ Select the **edge** tool from the top menu.
++ शीर्ष menu से **edge** टूल चुनें।
 
-![Edge tool](images/blender-edge-tool.png)
+![धार उपकरण](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge of the cube.
++ ऊपरी दाएं किनारे का चयन करने के लिए क्लिक करें।
 
-![Edge tool](images/blender-select-right-edge.png)
+![धार उपकरण](images/blender-select-right-edge.png)
 
-+ Drag it upwards using the blue handle.
++ नीले हैंडल का उपयोग करके इसे ऊपर की ओर खींचें।
 
-![Drag the right edge](images/blender-drag-right-edge.png)
+![दाहिने किनारे को खींचें](images/blender-drag-right-edge.png)
 
-Now you have half a house with one edge going up to a point. You need to create the other half of the roof, but you cannot do that with a cube, because there are not enough parts to this cube to create the right shape.
+अब आपके पास आधा घर है जिसमें एक किनारा एक स्तर तक जा रहा है। आपको छत के दूसरे आधे हिस्से को बनाने की आवश्यकता है, लेकिन आप ऐसा घन के साथ नहीं कर सकते, क्योंकि सही आकार बनाने के लिए इस घन के पर्याप्त हिस्से नहीं हैं।
 
-In the next step you will learn how to use a tool called **extrude**, which will allow you to complete your house.
+अगले चरण में आप सीखेंगे कि **extrude** नामक टूल का उपयोग कैसे करें, जो आपको अपना घर पूरा करने की अनुमति देगा।
