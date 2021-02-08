@@ -1,17 +1,17 @@
-## Create the other half of the roof
+## छत का दूसरा हिस्सा बनाएं
 
-+ Select **edges** from the top menu.
++ ऊपर वाले menu से **edges** का चयन करें।
 
-![Edge tool](images/blender-edge-tool.png)
+![Edge उपकरण](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge.
++ ऊपरी दाएं किनारे का चयन करने के लिए क्लिक करें।
 
-![Select the edge](images/blender-select-right-edge-2.png)
+![किनारे का चयन करें](images/blender-select-right-edge-2.png)
 
-+ Select the move tool and drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
++ चाल उपकरण का चयन करें और छत के दूसरी तरफ से मेल खाने के लिए किनारे को नीचे गिरा दें। परिणामस्वरूप जो आकृति बनेगी वह थोड़ी और अधिक घर जैसी दिखेगी।
 
-![House](images/blender-house.png)
+![घर](images/blender-house.png)
 
-![House side](images/blender-house-side.png)
+![घर का पहलू](images/blender-house-side.png)
 
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
+आपका घर थोड़ा असंतुलित दिख सकता है, इसलिए यह आप पर निर्भर है कि आप परीक्षण करें और इसे ऐसा बनाएँ कि यह बेहतर दिखाई दे। आपके द्वारा अभी सीखी गई तकनीकों का उपयोग करके, कुछ बहुत ही जटिल मॉडल बनाना शुरू करना संभव है।
