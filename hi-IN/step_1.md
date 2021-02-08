@@ -12,36 +12,36 @@
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## शीर्षक: आप क्या सीखेंगे
 
 यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
 
-+ [डिज़ाइन बेसिक 2D और 3D सामग्रियाँ](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [बुनियादी 2D और 3D आस्तियों की रचना करें](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## शीर्षक: आपको किन चीजों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-+ A desktop or laptop computer capable of running the Blender software
++ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो ब्लेंडर सॉफ्टवेयर को चलाने में सक्षम है
 
-### Software
+### सॉफ्टवेयर
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 या उससे अधिक)
 
 \--- /collapse \---
 
-### Additional information for educators
+### शिक्षकों के लिए अधिक जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-block-house/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-block-house/print){:target="_blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### लाइसेंस
 
-***Block house*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+*** Block house *** 3D द्वारा & b3d101, पीटर केम्प, टॉम हैन्स, मोनिक दीवानचंद को लाइसेंस के तहत लाइसेंस दिया गया है [ क्रिएटिव कॉमन्स एट्रिब्यूशन 4.0 इंटरनेशनल लाइसेंस ](http://creativecommons.org/licenses/by-sa/4.0/).
