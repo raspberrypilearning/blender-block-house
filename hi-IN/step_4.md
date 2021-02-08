@@ -1,17 +1,17 @@
-## Extrude
+## बाहर निकालना
 
-+ Select the **face tool** from the menu at the top.
++ ऊपर menu से **face tool** चुनें।
 
-![Face tool](images/blender-face-tool.png)
+![सतह उपकरण](images/blender-face-tool.png)
 
-+ Click to select the right outer face of the cube.
++ घन के दाहिने बाहरी सतह का चयन करने के लिए क्लिक करें।
 
-![Select the right face](images/blender-select-right-face.png)
+![सही सतह का चयन करें](images/blender-select-right-face.png)
 
-+ Select **Extrude Region** from the list of tools on the left. 
++ बाईं ओर उपकरणों की सूची से **Extrude Region** का चयन करें। 
 
-![Extrude tools](images/blender-extrude-tool.png)
+![बाहर निकालने के टूल](images/blender-extrude-tool.png)
 
-+ Click and hold the mouse on the plus to start extruding the face. Drag the mouse to until you achieve the shape you are looking for, then simply let go of the mouse button.
++ सतह को बाहर निकालना शुरू करने के लिए प्लस पर माउस को क्लिक करें और दबाए रखें। माउस को तब तक खींचें जब तक आप उस आकृति को प्राप्त नहीं कर लेते, जिसकी आप तलाश कर रहे हैं, तब बस माउस बटन को छोड़ दें।
 
-![Extrude tools](images/blender-drag-right-face.png)
+![बाहर निकालने के टूल](images/blender-drag-right-face.png)
