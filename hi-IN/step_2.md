@@ -1,65 +1,65 @@
-## Vertices, edges and faces
+## सिरे, किनारे और चेहरे
 
-+ Open Blender and close the splash screen. You will see that a cube has been automatically added for you.
++ Blender खोलें और Splash स्क्रीन को बंद करें। आप देखेंगे कि आपके लिए एक घन स्वचालित रूप से जोड़ा गया है।
 
-If you rotate the cube using the middle mouse button, you'll see that it doesn't look particularly house-like at the moment. You might be tempted to go to the Create tab in the Toolbox and add a cone on top of the cube. For example:
+यदि आप माउस के बीच वाले बटन का उपयोग करके घन को घुमाते हैं, तो आप देखेंगे कि फिलहाल यह विशेष रूप से घर जैसा नहीं दिख रहा है. आप टूलबॉक्स में Create टैब पर जाकर घन के शीर्ष पर कोई शंकु जोड़ने के लिए लालायित हो सकते हैं। उदाहरण के लिए:
 
-![Block and cone](images/blender-block-and-cone.png)
+![ब्लॉक और शंकु](images/blender-block-and-cone.png)
 
-But that's not a very good solution at all. It is far easier to edit the cube itself to make it look like a house.
+लेकिन यह बहुत अच्छा समाधान नहीं है। घन को घर जैसा बनाने के लिए इसे ही संपादित करना कहीं अधिक आसान है।
 
-+ Select the cube, then go to the menu in the top left corner and select **Edit Mode**.
++ घन का चयन करें, फिर ऊपरी बाएँ कोने में menu पर जाएँ और ** Edit mode ** चुनें।
 
-![Edit mode](images/edit-mode.png)
+![संपादन मोड](images/edit-mode.png)
 
-Now you are in a mode which allows you to edit every part of the cube to reshape it.
+अब आप एक ऐसे mode में हैं जो आपको घन के प्रत्येक भाग को फिर से आकार देने के लिए संपादित करने की अनुमति देती है।
 
-There are three options: you can select to edit vertices, edges, or faces from the top menu.
+आपके पास तीन विकल्प हैं: आप शीर्ष menu से कोने, किनारे या सतह को संपादित करने का चयन कर सकते हैं।
 
-![Edit modes](images/edit-modes.png)
+![संपादन मोड](images/edit-modes.png)
 
-### Vertices
+### सिरे
 
-+ Choose **vertices** from the menu — this means you can select the corners of the cube.
++ Menu से **vertices** चुनें — इसका मतलब है कि आप घन के कोनों का चयन कर सकते हैं।
 
-![Edit options](images/blender-vertex-tool.png)
+![संपादन विकल्प](images/blender-vertex-tool.png)
 
-+ Select a vertex (corner) of the cube by clicking on it.
++ उस पर क्लिक करके घन के एक सिरे (कोने) का चयन करें।
 
-![Vertices](images/blender-select-vertex.png)
+![सिरे](images/blender-select-vertex.png)
 
-+ Drag the vertex using the blue, green, and red handles to create a new shape. If they are not appearing, make sure the move tool is selected from the menu on the left.
++ कोई नई आकृति बनाने के लिए नीले, हरे, और लाल हैंडल का उपयोग करके सिरे को खींचें। यदि वे दिखाई नहीं दे रहे हैं, तो सुनिश्चित करें कि बाईं ओर स्थित menu से move उपकरण चुना गया है।
 
-![Drag vertex](images/blender-drag-vertex.png)
+![सिरे खींचें](images/blender-drag-vertex.png)
 
-If you don't like the new shape you have created, you can press <kbd>CTRL + Z</kbd> to undo the changes.
+यदि आपको अपने द्वारा बनाया गया नया आकार पसंद नहीं है, तो आप परिवर्तनों को पूर्ववत करने के लिए <kbd>CTRL + Z</kbd> दबा सकते हैं।
 
-### Edges
+### किनारे
 
-+ Choose **edges** from the menu — this means you can select the edges of the cube.
++ Menu से **edges** चुनें - इसका मतलब है कि आप घन के किनारों का चयन कर सकते हैं।
 
-![Edges option](images/blender-edge-tool.png)
+![किनारों का विकल्प](images/blender-edge-tool.png)
 
-+ Click on an edge to highlight it in white.
++ इसे सफेद में हाइलाइट करने के लिए एक किनारे पर क्लिक करें।
 
-![Highlight an edge](images/blender-select-edge.png)
+![एक किनारा हाइलाइट करें](images/blender-select-edge.png)
 
-+ Move the edge using the blue, green, and red handles to create a new shape.
++ एक नया आकार बनाने के लिए नीले, हरे और लाल हैंडल का उपयोग करके किनारे को स्थानांतरित करें।
 
-![Highlight an edge](images/blender-drag-edge.png)
+![एक किनारा हाइलाइट करें](images/blender-drag-edge.png)
 
-### Faces
+### सतहें
 
-+ Choose **faces** from the menu — this means you can select the sides of the cube.
++ Menu से **faces** चुनें — इसका मतलब है कि आप घन की हर सतह का चयन कर सकते हैं।
 
-![Select faces option](images/blender-face-tool.png)
+![सतह का विकल्प चुनें](images/blender-face-tool.png)
 
-+ Select a face by clicking on it.
++ उस पर क्लिक करके एक सतह का चयन करें।
 
-![Select a face](images/blender-select-face.png)
+![एक सतह का चयन करें](images/blender-select-face.png)
 
-+ Move the face using the blue, green, and red handles to create a new shape.
++ एक नया आकार बनाने के लिए नीले, हरे और लाल हैंडल का उपयोग करके सतह को हिलाएं।
 
-![Move the face](images/blender-drag-face.png)
+![सतह को खिसकाएं](images/blender-drag-face.png)
 
-+ For now, undo the changes you have made by pressing <kbd>CTRL + Z</kbd> until you get back to the original cube.
++ अभी के लिए, आप <kbd>CTRL + Z</kbd> दबाकर किए गए परिवर्तनों को पूर्ववत करें जब तक कि आप अपने वास्तविक घन को नहीं पा लेते।
