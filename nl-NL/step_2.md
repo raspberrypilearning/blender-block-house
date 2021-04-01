@@ -1,65 +1,65 @@
-## Vertices, edges and faces
+## Hoekpunten, randen en vlakken
 
-+ Open Blender and close the splash screen. You will see that a cube has been automatically added for you.
++ Open Blender en sluit het startscherm. Je ziet dat een kubus automatisch voor je is toegevoegd.
 
-If you rotate the cube using the middle mouse button, you'll see that it doesn't look particularly house-like at the moment. You might be tempted to go to the Create tab in the Toolbox and add a cone on top of the cube. For example:
+Als je de kubus met de middelste muisknop draait, zie je dat hij er op dit moment niet bepaald huisachtig uitziet. Je zou in de verleiding kunnen komen om naar het tabblad Toevoegen in de Toolbox te gaan en een kegel bovenop de kubus toe te voegen. Bijvoorbeeld:
 
-![Block and cone](images/blender-block-and-cone.png)
+![Blok en kegel](images/blender-block-and-cone.png)
 
-But that's not a very good solution at all. It is far easier to edit the cube itself to make it look like a house.
+Maar dat is helemaal geen goede oplossing. Het is veel gemakkelijker om de kubus zelf aan te passen om het eruit te laten zien als een huis.
 
-+ Select the cube, then go to the menu in the top left corner and select **Edit Mode**.
++ Selecteer de kubus, ga dan naar het menu in de linkerbovenhoek en selecteer **Edit Mode** (bewerkingsmodus).
 
-![Edit mode](images/edit-mode.png)
+![Bewerkingsmodus](images/edit-mode.png)
 
-Now you are in a mode which allows you to edit every part of the cube to reshape it.
+Je bevindt je nu in een modus waarin je elk deel van de kubus kunt bewerken om deze opnieuw vorm te geven.
 
-There are three options: you can select to edit vertices, edges, or faces from the top menu.
+Er zijn drie opties: je kunt kiezen om hoekpunten, randen of vlakken vanuit het bovenste menu te bewerken.
 
-![Edit modes](images/edit-modes.png)
+![Bewerkingsmodi](images/edit-modes.png)
 
-### Vertices
+### Hoekpunten
 
-+ Choose **vertices** from the menu — this means you can select the corners of the cube.
++ Kies **hoekpunten** uit het menu — dit betekent dat je de hoeken van de kubus kunt selecteren.
 
-![Edit options](images/blender-vertex-tool.png)
+![Bewerkopties](images/blender-vertex-tool.png)
 
-+ Select a vertex (corner) of the cube by clicking on it.
++ Selecteer een hoekpunt (hoek) van de kubus door erop te klikken.
 
-![Vertices](images/blender-select-vertex.png)
+![Hoekpunten](images/blender-select-vertex.png)
 
-+ Drag the vertex using the blue, green, and red handles to create a new shape. If they are not appearing, make sure the move tool is selected from the menu on the left.
++ Versleep het hoekpunt met behulp van de blauwe, groene en rode handvatten om een nieuwe vorm te maken. Als ze niet verschijnen, zorg er dan voor dat het move tool (verplaatsingsgereedschap) is geselecteerd in het menu aan de linkerkant.
 
-![Drag vertex](images/blender-drag-vertex.png)
+![Sleep het hoekpunt](images/blender-drag-vertex.png)
 
-If you don't like the new shape you have created, you can press <kbd>CTRL + Z</kbd> to undo the changes.
+Als de nieuwe vorm die je hebt gemaakt niet bevalt, kun je op <kbd>CTRL + Z</kbd> drukken om de wijzigingen ongedaan te maken.
 
-### Edges
+### Randen
 
-+ Choose **edges** from the menu — this means you can select the edges of the cube.
++ Kies **randen** uit het menu — dit betekent dat je de randen van de kubus kunt selecteren.
 
-![Edges option](images/blender-edge-tool.png)
+![Randen optie](images/blender-edge-tool.png)
 
-+ Click on an edge to highlight it in white.
++ Klik op een rand om hem in wit te markeren.
 
-![Highlight an edge](images/blender-select-edge.png)
+![Markeer een rand](images/blender-select-edge.png)
 
-+ Move the edge using the blue, green, and red handles to create a new shape.
++ Verplaats de rand met behulp van de blauwe, groene en rode handvatten om een nieuwe vorm te maken.
 
-![Highlight an edge](images/blender-drag-edge.png)
+![Markeer een rand](images/blender-drag-edge.png)
 
-### Faces
+### Vlakken
 
-+ Choose **faces** from the menu — this means you can select the sides of the cube.
++ Kies **vlakken** uit het menu — dit betekent dat je de vlakken van de kubus kunt selecteren.
 
-![Select faces option](images/blender-face-tool.png)
+![Selecteer de optie vlakken](images/blender-face-tool.png)
 
-+ Select a face by clicking on it.
++ Selecteer een vlak door erop te klikken.
 
-![Select a face](images/blender-select-face.png)
+![Selecteer een vlak](images/blender-select-face.png)
 
-+ Move the face using the blue, green, and red handles to create a new shape.
++ Verplaats het vlak met behulp van de blauwe, groene en rode handvatten om een nieuwe vorm te maken.
 
-![Move the face](images/blender-drag-face.png)
+![Verplaats het vlak](images/blender-drag-face.png)
 
-+ For now, undo the changes you have made by pressing <kbd>CTRL + Z</kbd> until you get back to the original cube.
++ Maak voorlopig de aangebrachte wijzigingen ongedaan door op <kbd>CTRL + Z</kbd> drukken totdat je terug bent bij de originele kubus.
