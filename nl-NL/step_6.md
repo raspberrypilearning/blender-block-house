@@ -1,18 +1,18 @@
-## Challenge: colour in your house
+## Uitdaging: kleur je huis in
 
-Can you add colour to your house?
+Kun je kleur aan je huis toevoegen?
 
-![Coloured house](images/blender-house-colour-render.png)
+![Gekleurd huis](images/blender-house-colour-render.png)
 
-You can select a face and add a material to the face to colour it in:
+Je kunt een vlak selecteren en een materiaal toevoegen aan het vlak om het in te kleuren:
 
-+ Go to the Material Properties tab on the right and click the **+**, then create a **New** material.
-+ Select a colour for your material under **Base Color**.
-+ Go to Edit mode and select the face you want to colour.
-+ Select the material, then press **Assign** to assign the material to the face.
++ Ga naar het tabblad Material Properties (materiaaleigenschappen) aan de rechterkant en klik op de **+**en maak vervolgens een **Nieuw** materiaal.
++ Selecteer een kleur voor je materiaal onder **Base Color** (basiskleur).
++ Ga naar de bewerkingsmodus en selecteer het vlak dat je wilt kleuren.
++ Selecteer het materiaal en druk op **Assign** (toewijzen) om het materiaal aan het vlak toe te wijzen.
 
-![New material](images/new-material.png)
+![Nieuw materiaal](images/new-material.png)
 
-+ Try giving your house multiple colours. For example, you could add a grey roof:
++ Probeer je huis meerdere kleuren te geven. Je kunt bijvoorbeeld een grijs dak toevoegen:
 
-![Coloured house 2](images/blender-house-2.png)
+![Gekleurd huis 2](images/blender-house-2.png)
