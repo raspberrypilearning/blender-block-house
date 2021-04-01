@@ -1,17 +1,17 @@
-## Extrude
+## Uitbouwen
 
-+ Select the **face tool** from the menu at the top.
++ Selecteer de **vlak optie** in het menu bovenaan.
 
-![Face tool](images/blender-face-tool.png)
+![Vlakgereedschap](images/blender-face-tool.png)
 
-+ Click to select the right outer face of the cube.
++ Klik om de rechter zijkant van de kubus te selecteren.
 
-![Select the right face](images/blender-select-right-face.png)
+![Selecteer het rechtervlak](images/blender-select-right-face.png)
 
-+ Select **Extrude Region** from the list of tools on the left. 
++ Selecteer **Extrude Region** (gebied uitbouwen) uit de lijst met gereedschappen aan de linkerkant. 
 
-![Extrude tools](images/blender-extrude-tool.png)
+![Uitbouw gereedschappen](images/blender-extrude-tool.png)
 
-+ Click and hold the mouse on the plus to start extruding the face. Drag the mouse to until you achieve the shape you are looking for, then simply let go of the mouse button.
++ Klik en houd de muis ingedrukt om het vlak uit te bouwen. Sleep de muis totdat je de vorm die je zoekt hebt gevonden, laat dan gewoon de muisknop los.
 
-![Extrude tools](images/blender-drag-right-face.png)
+![Uitbouw gereedschappen](images/blender-drag-right-face.png)
