@@ -1,19 +1,19 @@
-## Create half a roof
+## Maak een half dak
 
-To create the roof, start by selecting an edge.
+Om een dak te maken, begin met het selecteren van een rand.
 
-+ Select the **edge** tool from the top menu.
++ Selecteer de **rand** optie in het bovenste menu.
 
-![Edge tool](images/blender-edge-tool.png)
+![Rand gereedschap](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge of the cube.
++ Klik om de rechterbovenrand van de kubus te selecteren.
 
-![Edge tool](images/blender-select-right-edge.png)
+![Rand gereedschap](images/blender-select-right-edge.png)
 
-+ Drag it upwards using the blue handle.
++ Sleep het naar boven met het blauwe handvat.
 
-![Drag the right edge](images/blender-drag-right-edge.png)
+![Sleep de rechterrand](images/blender-drag-right-edge.png)
 
-Now you have half a house with one edge going up to a point. You need to create the other half of the roof, but you cannot do that with a cube, because there are not enough parts to this cube to create the right shape.
+Nu heb je een half huis waarvan de ene rand in een punt uitloopt. Je moet de andere helft van het dak maken, maar dat kun je niet doen met een kubus, omdat er niet genoeg onderdelen aan deze kubus zijn om de juiste vorm te maken.
 
-In the next step you will learn how to use a tool called **extrude**, which will allow you to complete your house.
+In de volgende stap leer je hoe je een gereedschap kunt gebruiken met de naam **extrude** (uitbouwen), waarmee je je huis kunt voltooien.
