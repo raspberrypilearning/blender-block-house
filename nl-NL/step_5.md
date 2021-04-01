@@ -1,17 +1,17 @@
-## Create the other half of the roof
+## Maak de andere helft van het dak
 
-+ Select **edges** from the top menu.
++ Selecteer **randen** in het bovenste menu.
 
-![Edge tool](images/blender-edge-tool.png)
+![Rand gereedschap](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge.
++ Klik om de rechterbovenrand te selecteren.
 
-![Select the edge](images/blender-select-right-edge-2.png)
+![Selecteer de rand](images/blender-select-right-edge-2.png)
 
-+ Select the move tool and drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
++ Selecteer het verplaatsingsgereedschap en trek de rand naar beneden totdat deze overeenkomt met de andere kant van het dak. Het resultaat zal iets meer huisachtig lijken.
 
-![House](images/blender-house.png)
+![Huis](images/blender-house.png)
 
-![House side](images/blender-house-side.png)
+![Huiskant](images/blender-house-side.png)
 
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
+Je huis ziet er misschien een beetje onevenwichtig uit, dus het is aan jou om te experimenteren en het er beter uit te laten zien. Met behulp van de technieken die je zojuist hebt geleerd, is het mogelijk om een aantal zeer gecompliceerde modellen te maken.
