@@ -1,10 +1,10 @@
-## Introduction
+## Inleiding
 
-Learn how to edit objects and extrude in Blender by creating a simple house from a single block.
+Leer hoe je objecten kunt bewerken en uitbouwen in Blender door een simpel huis uit één blok te maken.
 
-### What you will make
+### Wat ga je maken
 
-Here is how your finished piece will look:
+Hier zie je hoe je voltooide model eruit zal zien:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,36 +12,36 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: "Wat ga je leren"
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Ontwerp standaard 2D- en 3D-modellen](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: "Wat heb je nodig"
 
 ### Hardware
 
-+ A desktop or laptop computer capable of running the Blender software
++ Een desktop- of laptopcomputer die de Blender-software kan uitvoeren
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 of nieuwer)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Aanvullende informatie voor docenten
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-block-house/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/blender-block-house/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl-NL/resources'.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Als je wilt, kun je het hele project in een zelfstudie video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Licentie
 
-***Block house*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Block house*** door 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is gelicentieerd onder een [Creative Commons Attribution 4.0 International licentie](http://creativecommons.org/licenses/by-sa/4.0/).
