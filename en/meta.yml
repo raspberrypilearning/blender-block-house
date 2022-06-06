@@ -18,10 +18,12 @@ version: 4
 last_tested: 2020-02-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Vertices, edges and faces
 - title: Create half a roof
+  completion:
+  - engaged
 - title: Extrude
 - title: Create the other half of the roof
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: colour in your house'

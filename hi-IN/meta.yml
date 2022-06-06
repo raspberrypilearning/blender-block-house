@@ -18,10 +18,12 @@ version: 4
 last_tested: 2020-02-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: सिरे, किनारे और चेहरे
 - title: आधी छत बनाएँ.
+  completion:
+  - engaged
 - title: बाहर निकाल लीजिये
 - title: छत का दूसरा आधा हिस्सा बनाएँ
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: अपने घर को रंग दें'
