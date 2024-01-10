@@ -1,8 +1,8 @@
 ---
 title: Casa de bloques
 hero_image: images/banner.png
-description: Aprende a editar objetos y extraerlos en Blender creando una casa desde un simple bloque
-theme: turquoise #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Aprende a editar objetos y a extraerlos en Blender creando una casa desde un simple bloque
+theme: turquesa
 duration: 2
 listed: true
 ingredient: false
@@ -19,12 +19,16 @@ steps:
   - 
     title: Introducción
   - 
-    title: Vertices, edges and faces
+    title: Vértices, bordes y caras
   - 
-    title: Create half a roof
+    title: Crea la mitad de un techo
+    completion:
+      - engaged
   - 
-    title: Extrude
+    title: Extruir
   - 
-    title: Create the other half of the roof
+    title: Crea la otra mitad del techo
+    completion:
+      - internal
   - 
-    title: "Desafío: colorea tu casa"
+    title: 'Desafío: colorea tu casa'
