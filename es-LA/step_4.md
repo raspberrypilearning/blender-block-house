@@ -1,17 +1,17 @@
-## Extrude
+## Extruir
 
-+ Select the **face tool** from the menu at the top.
++ Selecciona la herramienta **selección de caras** en el menú superior.
 
 ![Herramienta de la cara](images/blender-face-tool.png)
 
-+ Click to select the right outer face of the cube.
++ Haz clic para seleccionar la cara externa derecha del cubo.
 
-![Select the right face](images/blender-select-right-face.png)
+![Selecciona la cara derecha](images/blender-select-right-face.png)
 
-+ Select **Extrude Region** from the list of tools on the left. 
++ Selecciona **Extruir Región** en la lista de herramientas a la izquierda. 
 
-![Extrude tools](images/blender-extrude-tool.png)
+![Herramienta extruir](images/blender-extrude-tool.png)
 
-+ Click and hold the mouse on the plus to start extruding the face. Drag the mouse to until you achieve the shape you are looking for, then simply let go of the mouse button.
++ Haz clic y mantén el mouse sobre el signo más para comenzar a extruir la cara. Arrastra el mouse hasta alcanzar la forma que deseas, luego simplemente suelta el botón del mouse.
 
-![Extrude tools](images/blender-drag-right-face.png)
+![Herramienta extruir](images/blender-drag-right-face.png)
