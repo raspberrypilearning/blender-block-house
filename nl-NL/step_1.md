@@ -40,7 +40,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl-NL/resources'.
 
-Als je wilt, kun je het hele project in een zelfstudie video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Als je wilt, kun je het hele project in een zelfstudie video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen></iframe> 
 
 ### Licentie
 
