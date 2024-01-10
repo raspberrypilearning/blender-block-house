@@ -2,7 +2,7 @@
 title: ब्लॉक हाउस
 hero_image: images/banner.png
 description: केवल एक block से घर बनाकर वस्तुओं को संपादित करने और Blender में निकालने का तरीका सीखें।
-theme: फ़िरोज़ी रंग #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: फ़िरोज़ी रंग
 duration: 2
 listed: true
 ingredient: false
@@ -22,9 +22,13 @@ steps:
     title: सिरे, किनारे और चेहरे
   - 
     title: आधी छत बनाएँ.
+    completion:
+      - engaged
   - 
     title: बाहर निकाल लीजिये
   - 
     title: छत का दूसरा आधा हिस्सा बनाएँ
+    completion:
+      - internal
   - 
-    title: "चुनौती: अपने घर को रंग दें"
+    title: 'चुनौती: अपने घर को रंग दें'
