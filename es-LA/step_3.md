@@ -1,19 +1,19 @@
-## Create half a roof
+## Crea la mitad de un techo
 
-To create the roof, start by selecting an edge.
+Para crear el techo, comienza seleccionando un borde.
 
-+ Select the **edge** tool from the top menu.
++ Selecciona la herramienta **borde** en el menú superior.
 
-![Edge tool](images/blender-edge-tool.png)
+![Herramienta de borde](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge of the cube.
++ Haz clic para seleccionar el borde superior derecho del cubo.
 
-![Edge tool](images/blender-select-right-edge.png)
+![Herramienta de borde](images/blender-select-right-edge.png)
 
-+ Drag it upwards using the blue handle.
++ Arrástralo hacia arriba usando la flecha azul.
 
-![Drag the right edge](images/blender-drag-right-edge.png)
+![Arrastra el borde derecho](images/blender-drag-right-edge.png)
 
-Now you have half a house with one edge going up to a point. You need to create the other half of the roof, but you cannot do that with a cube, because there are not enough parts to this cube to create the right shape.
+Ahora tienes la mitad de una casa con un borde que sobresale. Necesitas crear la otra mitad del techo, pero no puedes hacerlo con un cubo porque un cubo no tiene las partes suficientes para crear la forma correcta.
 
-In the next step you will learn how to use a tool called **extrude**, which will allow you to complete your house.
+En el siguiente paso aprenderás a usar una herramienta llamada **extruir**, que te permitirá completar tu casa.
