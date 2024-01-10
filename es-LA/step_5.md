@@ -1,17 +1,17 @@
-## Create the other half of the roof
+## Crea la otra mitad del techo
 
-+ Select **edges** from the top menu.
++ Selecciona la opción **bordes** en el menú superior.
 
-![Edge tool](images/blender-edge-tool.png)
+![Herramienta borde](images/blender-edge-tool.png)
 
-+ Click to select the upper right edge.
++ Haz clic para seleccionar el borde superior derecho.
 
-![Select the edge](images/blender-select-right-edge-2.png)
+![Selecciona el borde](images/blender-select-right-edge-2.png)
 
-+ Select the move tool and drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
++ Selecciona la herramienta de movimiento y baja el borde para que coincida con el otro lado del techo. El resultado será algo que se parecerá un poco más a una casa.
 
-![House](images/blender-house.png)
+![Casa](images/blender-house.png)
 
-![House side](images/blender-house-side.png)
+![Lateral de la casa](images/blender-house-side.png)
 
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
+Tu casa tal vez no luzca pareja, así que depende de tí experimentar y hacerla lucir mejor. Usando las técnicas que acabas de aprender, es posible empezar a construir modelos más complicados.
