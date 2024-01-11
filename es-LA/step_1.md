@@ -42,7 +42,8 @@ Si necesitas imprimir este proyecto, por favor usa la [versión amigable para im
 
 Utiliza el enlace que aparece en el pie de página para acceder al repositorio de GitHub de este proyecto, el cual contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta "en/resources".
 
-Si prefieres, puedes ver todo el material como un video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen></iframe> 
+Si prefieres, puedes ver todo el material como un video tutorial:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96Boo8roD3A" frameborder="0" allowfullscreen></iframe> 
 
 ### Licencia
 
