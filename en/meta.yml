@@ -27,3 +27,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: colour in your house'
+  completion:
+  - external
