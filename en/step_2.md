@@ -8,14 +8,14 @@ Open Blender and click on the background to close the screen which pops up. You 
 --- task ---
 Click on the cube to select it, then press <kbd>TAB</kbd> to enter **Edit Mode**.
 
-![Edit mode](images/edit-mode.png)
+![Edit mode is selected in a drop down menu](images/edit-mode.png)
 --- /task ---
 
 Now you are in a mode which allows you to edit every part of the cube to reshape it.
 
 There are three options you can select: vertex (corner), edge, or face.
 
-![Edit modes](images/edit-modes.png)
+![A menu with edit mode highlighted and three option buttons. The first option is selected.](images/edit-modes.png)
 
 ### Corners
 
@@ -29,17 +29,18 @@ Choose the first option - **vertex** - from the menu. Vertex is a fancy word for
 --- task ---
 Click on one of the corners of your cube.
 
-![Vertices](images/blender-select-vertex.png)
+![A cube with one corner highlighted in orange as it has been selected](images/blender-select-vertex.png)
 --- /task ---
 
 --- task ---
 Select the **Move** tool.
+![An icon of four arrows with 'Move' written next to it in a tooltip.](images/move-tool.png)
 --- /task ---
 
 --- task ---
 Drag the corner using the blue, green, and red handles to create a new shape.
 
-![Drag vertex](images/blender-drag-vertex.png)
+![A cube where one corner has been dragged upwards and outwards to make a pointed edge](images/blender-drag-vertex.png)
 
 If you don't like the new shape you have created, you can press <kbd>CTRL + Z</kbd> to undo the changes.
 --- /task ---
@@ -53,7 +54,9 @@ Now choose the second menu option: **edge**.
 --- /task ---
 
 --- task ---
-Click on an edge and then move it in the same way as you did with the corner, to create a new shape.
+Select one of the edges of the cube and then move it in the same way as you did with the corner, to create a new shape.
+
+![A cube where one edge has been moved out to make that side look like half of a parallelogram.](images/move-edge.png)
 
 --- /task ---
 
@@ -67,4 +70,6 @@ Finally, choose **face** from the menu — this means you can select one side of
 
 --- task ---
 Practice selecting a face and then moving it to create a new shape.
+
+![A cube which has now been totally deformed. It has one pointed corner, is slanted on an edge and is now flattened.](images/move-face.png)
 --- /task ---
