@@ -1,8 +1,7 @@
 ## Corners, edges and faces
 
 --- task ---
-Open Blender and click on the background to close the screen which pops up. You will see that a cube has been automatically added for you.
-
+Open Blender and exit the welcome screen by pressing <kbd>ESC</kbd>.
 --- /task ---
 
 --- task ---
@@ -42,7 +41,6 @@ Drag the corner using the blue, green, and red handles to create a new shape.
 
 ![A cube where one corner has been dragged upwards and outwards to make a pointed edge](images/blender-drag-vertex.png)
 
-If you don't like the new shape you have created, you can press <kbd>CTRL + Z</kbd> to undo the changes.
 --- /task ---
 
 ### Edge

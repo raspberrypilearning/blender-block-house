@@ -1,10 +1,14 @@
 ## Create half a roof
 
-To create the roof, start by selecting an edge.
+--- task ---
+Click **File** > **New** > **General** in the menu at the top, to open a blank file with a cube.
+--- /task ---
 
-+ Select the **edge** tool from the top menu.
+--- task ---
+Select the **edge** tool from the top menu.
 
-![Edge tool](images/blender-edge-tool.png)
+![The three button selection toolbar with the middle button for selecting edges highlighted](images/blender-edge-tool.png)
+--- /task ---
 
 + Click to select the upper right edge of the cube.
 
