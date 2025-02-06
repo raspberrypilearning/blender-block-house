@@ -25,6 +25,6 @@ steps:
 - title: Create the other half of the roof
   completion:
   - internal
-- title: 'Challenge: colour in your house'
+- title: Challenge
   completion:
   - external

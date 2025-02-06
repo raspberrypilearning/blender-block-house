@@ -1,8 +1,11 @@
-## Challenge: colour in your house
+## Challenge
 
-Can you add colour to your house?
+--- task ---
+Add colour to your house
 
 ![Coloured house](images/blender-house-colour-render.png)
+
+--- /task ---
 
 You can select a face and add a material to the face to colour it in:
 
@@ -13,6 +16,8 @@ You can select a face and add a material to the face to colour it in:
 
 ![New material](images/new-material.png)
 
-+ Try giving your house multiple colours. For example, you could add a grey roof:
+--- task ---
+Try giving your house multiple colours. For example, you could add a grey roof:
 
 ![Coloured house 2](images/blender-house-2.png)
+--- /task ---
