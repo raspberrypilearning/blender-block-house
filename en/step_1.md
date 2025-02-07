@@ -1,8 +1,6 @@
-## Introduction
+### What you will make
 
 Create a house from a single block, using Blender.
-
-### What you will make
 
 --- no-print ---
 Here is how your finished piece will look:
