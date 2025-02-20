@@ -1,17 +1,23 @@
-## Extrude
+## Create the other half of the roof
 
-+ Select the **face tool** from the menu at the top.
+--- task ---
+Select **edges** from the top menu.
 
-![Face tool](images/blender-face-tool.png)
+![Edge tool](images/blender-edge-tool.png)
+--- /task ---
 
-+ Click to select the right outer face of the cube.
+--- task ---
+Click to select the upper right edge.
 
-![Select the right face](images/blender-select-right-face.png)
+![Select the edge](images/blender-select-right-edge-2.png)
+--- /task ---
 
-+ Select **Extrude Region** from the list of tools on the left. 
+--- task ---
+Select the move tool and drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
 
-![Extrude tools](images/blender-extrude-tool.png)
+![House](images/blender-house.png)
 
-+ Click and hold the mouse on the plus to start extruding the face. Drag the mouse to until you achieve the shape you are looking for, then simply let go of the mouse button.
+![House side](images/blender-house-side.png)
+--- /task ---
 
-![Extrude tools](images/blender-drag-right-face.png)
+Rotate the view to look at your house and, if needed, experiment to make it look better. 

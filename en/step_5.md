@@ -1,17 +1,11 @@
-## Create the other half of the roof
+## Challenge
 
-+ Select **edges** from the top menu.
+Using the techniques you've just learnt, it is possible to start making some very complicated models.
 
-![Edge tool](images/blender-edge-tool.png)
+--- task ---
+Render your house.
+--- /task ---
 
-+ Click to select the upper right edge.
-
-![Select the edge](images/blender-select-right-edge-2.png)
-
-+ Select the move tool and drop the edge down to match the other side of the roof. The result will be something that looks a little bit more house-like.
-
-![House](images/blender-house.png)
-
-![House side](images/blender-house-side.png)
-
-Your house might look a bit unbalanced, so it's up to you to experiment and make it look better. Using the techniques you've just learnt, it is possible to start making some very complicated models.
+--- task ---
+Add another shape to make your house more realistic. Perhaps you could add a chimney, or a door?
+--- /task ---
