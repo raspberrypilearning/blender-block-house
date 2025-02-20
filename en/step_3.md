@@ -1,29 +1,27 @@
-## Create half a roof
+## Extrude
 
 --- task ---
-Click **File** > **New** > **General** in the menu at the top, to open a blank file with a cube.
+Select the **face tool** from the menu at the top.
+
+![Face tool](images/blender-face-tool.png)
 --- /task ---
 
 --- task ---
-Select the **edge** tool from the top menu.
+Click to select the right outer face of the cube.
 
-![The three button selection toolbar with the middle button for selecting edges highlighted](images/blender-edge-tool.png)
+![Select the right face](images/blender-select-right-face.png)
 --- /task ---
 
 --- task ---
-Click to select the upper right edge of the cube.
+Select **Extrude Region** from the list of tools on the left. 
 
-![Edge tool](images/blender-select-right-edge.png)
-
+![Extrude tools](images/blender-extrude-tool.png)
 --- /task ---
 
 --- task ---
-Drag it upwards using the blue handle.
+Click and hold the mouse on the plus '+' then drag until you have doubled the shape's width. Then, let go of the mouse button.
 
-![Drag the right edge](images/blender-drag-right-edge.png)
+
+![Extrude tools](images/blender-drag-right-face.png)
 
 --- /task ---
-
-Now you have half a house with one edge going up to a point. You need to create the other half of the roof, but you cannot do that with a cube, because there are not enough parts to this cube to create the right shape.
-
-In the next step you will learn how to use a tool called **extrude**, which will allow you to complete your house.

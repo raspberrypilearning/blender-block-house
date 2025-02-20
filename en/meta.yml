@@ -17,7 +17,6 @@ version: 4
 last_tested: 2025-01-30
 steps:
 - title: What you will make
-- title: Corners, edges and faces
 - title: Create half a roof
   completion:
   - engaged
